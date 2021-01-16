@@ -16,3 +16,4 @@ https://youtu.be/zgi8_GEcxaI
 # Note
 Jika Gambar Tidak Muncul Hapus Folder Storage di Folder Public Lalu Jalankan :
 php artisan storage:link
+Import Data DB Dengan File dlstmik.sql
