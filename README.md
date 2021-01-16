@@ -14,6 +14,6 @@ Password    : 123456
 https://youtu.be/zgi8_GEcxaI
 
 # Note
-Jika Gambar Tidak Muncul Hapus Folder Storage di Folder Public Lalu Jalankan :
-php artisan storage:link
+Jika Gambar Tidak Muncul Hapus Folder Storage di Folder Public Lalu Jalankan : <br>
+php artisan storage:link <br>
 Import Data DB Dengan File dlstmik.sql
