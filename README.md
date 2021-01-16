@@ -12,3 +12,7 @@ Password    : 123456
 
 # Video Testing Aplikasi
 https://youtu.be/zgi8_GEcxaI
+
+# Note
+Jika Gambar Tidak Muncul Hapus Folder Storage di Folder Public Lalu Jalankan :
+php artisan storage:link
